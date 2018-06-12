@@ -1,0 +1,5 @@
+pipeline:
+  ssss:
+    image: alpine
+    commands:
+      - echo 666
